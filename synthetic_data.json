@@ -1,0 +1,86 @@
+[
+  {
+    "pair": 1,
+    "treated_pre": 100,
+    "treated_post": 117,
+    "control_pre": 105,
+    "control_post": 125
+  },
+  {
+    "pair": 2,
+    "treated_pre": 110,
+    "treated_post": 134,
+    "control_pre": 115,
+    "control_post": 135
+  },
+  {
+    "pair": 3,
+    "treated_pre": 120,
+    "treated_post": 146,
+    "control_pre": 125,
+    "control_post": 145
+  },
+  {
+    "pair": 4,
+    "treated_pre": 130,
+    "treated_post": 157,
+    "control_pre": 135,
+    "control_post": 155
+  },
+  {
+    "pair": 5,
+    "treated_pre": 140,
+    "treated_post": 168,
+    "control_pre": 145,
+    "control_post": 165
+  },
+  {
+    "pair": 6,
+    "treated_pre": 150,
+    "treated_post": 179,
+    "control_pre": 155,
+    "control_post": 175
+  },
+  {
+    "pair": 7,
+    "treated_pre": 160,
+    "treated_post": 189,
+    "control_pre": 165,
+    "control_post": 185
+  },
+  {
+    "pair": 8,
+    "treated_pre": 170,
+    "treated_post": 200,
+    "control_pre": 175,
+    "control_post": 195
+  },
+  {
+    "pair": 9,
+    "treated_pre": 180,
+    "treated_post": 211,
+    "control_pre": 185,
+    "control_post": 205
+  },
+  {
+    "pair": 10,
+    "treated_pre": 190,
+    "treated_post": 222,
+    "control_pre": 195,
+    "control_post": 215
+  },
+  {
+    "pair": 11,
+    "treated_pre": 200,
+    "treated_post": 233,
+    "control_pre": 205,
+    "control_post": 225
+  },
+  {
+    "pair": 12,
+    "treated_pre": 210,
+    "treated_post": 252,
+    "control_pre": 215,
+    "control_post": 235
+  }
+]

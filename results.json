@@ -1,0 +1,24 @@
+{
+  "pairs": 12,
+  "mean_change_contrast": 9,
+  "naive_treated_change": 29,
+  "mean_control_change": 20,
+  "exact_two_sided_p": 0.0009765625,
+  "assignments_enumerated": 4096,
+  "pair_contrasts": [
+    -3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    9,
+    10,
+    11,
+    12,
+    13,
+    22
+  ],
+  "estimand": "Equal-pair mean incremental outcome count per geography over the period",
+  "null": "Sharp null of no effect in any geography; independent within-pair randomization"
+}
